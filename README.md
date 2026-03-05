@@ -61,6 +61,10 @@ Visuals:
 - Improve follow-up strategies in negotiation stage
 - Focus on high converting products
 
+## Dashboard Preview
+![Dashboard](Dashboard_screeshot.JPG)
+
 ## Author
 Munira Ratlaami  
+
 Aspiring Data Analyst | Power BI | Data Visualization
